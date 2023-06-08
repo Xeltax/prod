@@ -1,0 +1,15 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/Rooms": "pages/Rooms.html",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/api/room": "pages/api/room.js",
+  "/api/story": "pages/api/story.js",
+  "/api/suite": "pages/api/suite.js",
+  "/api/user": "pages/api/user.js",
+  "/dashboard": "pages/dashboard.html",
+  "/": "pages/index.html",
+  "/ActiveRooms/[uuid]": "pages/ActiveRooms/[uuid].js",
+  "/404": "pages/404.html"
+}
